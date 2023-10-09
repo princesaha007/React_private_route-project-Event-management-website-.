@@ -36,3 +36,6 @@ Five different features:
 5. user can sign out when they want
 
 
+github link : https://github.com/programming-hero-web-course-4/b8a9-event-management-princesaha007
+
+live link: https://react-project-with-auth.web.app/
