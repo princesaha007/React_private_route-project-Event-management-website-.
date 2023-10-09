@@ -25,3 +25,14 @@ C: 3
 
 Explanation: The code uses the forEach method to iterate through the nums array and increments the count variable by 1 for each non-zero value in the array. Since there are three non-zero values in the array (1, 2, and 3), the count variable is incremented three times, resulting in a final value of 3.
 
+
+
+
+Five different features:
+1. user can register and login
+2. user can find suitable services
+3. user have to push valid email and password
+4. user can see service details when only logged in
+5. user can sign out when they want
+
+
