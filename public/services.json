@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Wedding Planning",
+      "img": "https://i.ibb.co/ZHwrh2T/1.jpg",
+      "description": "Our comprehensive wedding planning package includes everything you need to create your dream wedding. From selecting the perfect venue to coordinating with vendors, we'll handle every detail so you can focus on enjoying your special day.",
+      "price": "$5,000"
+    },
+    {
+      "id": 2,
+      "name": "Mehedi Package",
+      "img": "https://i.ibb.co/wdXLzKj/2.jpg",
+      "description": "Add a touch of tradition to your wedding with our Mehedi package. Our skilled artists will create stunning henna designs that beautifully complement your bridal look.",
+      "price": "$500"
+    },
+    {
+      "id": 3,
+      "name": "Sangeet Package",
+      "img": "https://i.ibb.co/1TCQ3jD/x.jpg",
+      "description": "Get ready to dance the night away with our Sangeet package. We'll provide you with lively music, energetic dance performances, and a vibrant atmosphere that will make your Sangeet ceremony unforgettable.",
+      "price": "$1,000"
+    },
+    {
+      "id": 4,
+      "name": "Engagement Package",
+      "img": "https://i.ibb.co/z5kV3v1/5.jpg",
+      "description": "Celebrate your engagement in style with our Engagement package. We'll help you create a memorable event filled with love, laughter, and beautiful decor.",
+      "price": "$800"
+    },
+    {
+      "id": 5,
+      "name": "Destination Wedding Service",
+      "img": "https://i.ibb.co/YTf2Dps/5.jpg",
+      "description": "Plan your dream destination wedding with our expert services. Whether you envision a beachfront paradise or a charming overseas location, we'll take care of the logistics, so you can focus on making lifelong memories.",
+      "price": "$7,500"
+    },
+    {
+      "id": 6,
+      "name": "Reception Planner",
+      "img": "https://i.ibb.co/4pwc3rK/6.jpg",
+      "description": "Let us help you create a stunning reception that your guests will remember for years to come. From elegant decor to delicious catering, we'll ensure that your reception is a grand celebration.",
+      "price": "$2,500"
+    }
+  ]
+  

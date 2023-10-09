@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "designation": "Head of Photo & Videographer",
+      "description": "John is a highly skilled photographer and videographer with years of experience capturing beautiful moments. He specializes in turning memories into timeless visual stories.",
+      "picture": "https://i.ibb.co/nDn7Mhv/pexels-matheus-bertelli-2608519.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jany Ren",
+      "designation": "Head of Events",
+      "description": "Jany is a dedicated event planner who loves to bring people's visions to life. With meticulous attention to detail, she ensures that every event is executed flawlessly.",
+      "picture": "https://i.ibb.co/99Fskx1/images.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "designation": "Designer",
+      "description": "Alex is a talented designer with a passion for creating stunning visuals. Whether it's designing invitations, decor, or branding, Alex's creativity knows no bounds.",
+      "picture": "https://i.ibb.co/0mLT4Nn/istockphoto-1354898146-612x612.jpg"
+    }
+  ]
+  
+  
