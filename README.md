@@ -14,3 +14,14 @@ Explanation: In the provided code, the sum function is designed to add two numbe
 A: ['🍕', '🍫', '🥑', '🍔']
 
 Explanation: The code assigns the value of the first element of the food array ("🍕") to the info.favoriteFood property. Later, it updates the info.favoriteFood property to "🍝". However, this change does not affect the original food array. Therefore, when you log the food array, it remains unchanged, containing the original elements: ['🍕', '🍫', '🥑', '🍔'].
+
+4. 
+B: Hi there, undefined
+
+Explanation: The sayHi function expects an argument name, but when you call sayHi() without providing any argument, name inside the function becomes undefined. As a result, the function returns "Hi there, undefined," where undefined is the value of the name parameter in this context.
+
+5.
+C: 3
+
+Explanation: The code uses the forEach method to iterate through the nums array and increments the count variable by 1 for each non-zero value in the array. Since there are three non-zero values in the array (1, 2, and 3), the count variable is incremented three times, resulting in a final value of 3.
+
